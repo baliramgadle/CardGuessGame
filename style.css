@@ -62,7 +62,7 @@ h1 {
 /* card */
 .card {
     border: 1px solid black;
-    width: clamp(100px, 20vw, 150vw);
+    width: clamp(100px, 20vw, 150px);
     aspect-ratio: 1/1.5;
     margin: 10px;
     display: grid;
